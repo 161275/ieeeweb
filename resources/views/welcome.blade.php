@@ -11,9 +11,10 @@
 					 <div class="container">
 		             <div class="slider-info">
 						<h4>We Build <span class="home-banner"> Your Dream</span> </h4>
-						<p>Quis autem vel eum iure reprehderit.</p>
+						<p>The world's largest technical professional organization for the advancement of technology.</p>
 						<div class="w3layouts_more-buttn">
-							<a href="#" data-toggle="modal" data-target="#myModal">Get More</a>
+							<a href="#" data-toggle="modal" data-target="#myModal">Register Here</a>
+							<!-- <a href="#" >Register Here</a> -->
 						</div>
 						</div>
 					</div>
@@ -60,14 +61,22 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-					<h4 class="modal-title">Build-Up</h4>
+					<h4 class="modal-title">Registration</h4>
 				</div>
 				<div class="modal-body">
-					<div class="out-info">
+					<!-- <div class="out-info">
 						<img src="images/g1.jpg" alt="" />
 						<p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae,
 							eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellu</p>
-					</div>
+					</div> -->
+					<form method="POST" action="" class="form-group" required=""><br>
+					<input type="text" placeholder="Name" name="name" class="form-control" required=""><br>
+					<input type="text" placeholder="Enrollment No." name="roll_no" class="form-control" required=""><br>
+					<input type="email" placeholder="example@exapmle.com" name="email" class="form-control" required=""><br>
+					<input type="text" placeholder="Contact No." name="con_no" class="form-control" required=""><br>
+					<input type="text" placeholder="Watsapp No." name="wat_no" class="form-control" required=""><br>
+<input type="submit" value="Submit" name="Submit" class="btn btn-primary">
+					</form>
 				</div>
 			</div>
 		</div>

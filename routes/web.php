@@ -26,6 +26,9 @@ Route::get('/events', function () {
 Route::get('/gallary', function () {
     return view('gallary');
 });
+Route::get('/why', function () {
+    return view('whyjoin');
+});
 Route::post('/contact', [
     'uses' => 'ContactMessageController@store',
     'as' => 'contact.store'

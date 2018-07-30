@@ -39,8 +39,8 @@
 					</div>
 						<div class=" col-md-9 col-sm-9 address-gried">
 			
-					<p><a href="mailto:info@example.com">info@example1.com</a>
-						<span><a href="mailto:info@example.com">info@example2.com</a></span></p>
+					<p><a href="mailto:info@example.com">info@ieeejuit.in</a>
+						<span><a href="mailto:info@example.com">sanchit.juit@gmail.com</a></span></p>
 					</div>
 				</div>
 

@@ -14,9 +14,9 @@
 <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 				<nav>
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="{{url('/')}}">Home</a></li>
+						<li ><a href="{{url('/')}}">Home</a></li>
 						<li><a href="{{url('/events')}}">Events</a></li>
-						<!-- <li><a href="{{url('/')}}">Services</a></li> -->
+						<li><a href="{{url('/why')}}">Why Join?</a></li>
 						<!-- <li><a href="#blog" class="scroll">Blog</a></li> -->
 						<li><a href="{{url('/gallary')}}">Gallery</a></li>
 						<li><a href="{{url('/team')}}">Team</a></li>

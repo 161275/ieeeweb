@@ -19,15 +19,17 @@
  
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Steve Roberts</h6>
-        <span class="sub-title">Executive </span>
+        <h6 class="team-title">Dr. Meenakshi Sood</h6>
+        <span class="sub-title">Assistant Professor (Senior Grade)
+Senior Member IEEE <br>
+For more information <a href="http://www.juit.ac.in/faculty.php?id=166&dep=ece&page=0">click here</a></span>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 col-xs-4 team-wrap"></div>
@@ -43,15 +45,15 @@
             <div class="team-details text-center">
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Alliy Marshall</h6>
-        <span class="sub-title">Manager</span>
+        <h6 class="team-title">Sanchit Garg</h6>
+        <span class="sub-title">Chairperson</span>
       </div>
     </div>
     <!-- end team member -->
@@ -65,15 +67,15 @@
  
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Steve Roberts</h6>
-        <span class="sub-title">Executive </span>
+        <h6 class="team-title">Mayank Fulera</h6>
+        <span class="sub-title">Vice-Chairperson </span>
       </div>
     </div>
     <!-- end team member -->
@@ -87,15 +89,15 @@
         
                 <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Michael Cartney</h6>
-        <span class="sub-title">Director</span>
+        <h6 class="team-title">Nishchal Garg</h6>
+        <span class="sub-title">Treasurer</span>
       </div>
     </div>
     <!-- end team member -->
@@ -107,15 +109,15 @@
             <div class="team-details text-center">
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Michael Cartney</h6>
-        <span class="sub-title">Co-Director</span>
+        <h6 class="team-title">Sachin Gupta</h6>
+        <span class="sub-title">Secretory</span>
       </div>
     </div>
     <!-- end team member -->
@@ -130,15 +132,15 @@
             <div class="team-details text-center">
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Alliy Marshall</h6>
-        <span class="sub-title">Manager</span>
+        <h6 class="team-title">Shristi Gupta</h6>
+        <span class="sub-title">Web Master</span>
       </div>
     </div>
     <!-- end team member -->
@@ -146,21 +148,21 @@
     <div class="col-md-3 col-sm-6 col-xs-6 team-wrap">
       <div class="team-member text-center">
         <div class="team-img">
-          <img src="images/t2.jpg" alt="">
+          <img src="images/tc2.jpg" alt="">
           <div class="overlay">
             <div class="team-details text-center">
  
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Steve Roberts</h6>
-        <span class="sub-title">Executive </span>
+        <h6 class="team-title">Aman</h6>
+        <span class="sub-title">Technical Head </span>
       </div>
     </div>
     <!-- end team member -->
@@ -174,15 +176,15 @@
         
                 <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Michael Cartney</h6>
-        <span class="sub-title">Director</span>
+        <h6 class="team-title">Samyak Jain</h6>
+        <span class="sub-title">Technical Head</span>
       </div>
     </div>
     <!-- end team member -->
@@ -194,15 +196,15 @@
             <div class="team-details text-center">
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Michael Cartney</h6>
-        <span class="sub-title">Co-Director</span>
+        <h6 class="team-title">Himanshu Walia</h6>
+        <span class="sub-title">Technical Head</span>
       </div>
     </div>
     <!-- end team member -->
@@ -218,15 +220,15 @@
             <div class="team-details text-center">
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Alliy Marshall</h6>
-        <span class="sub-title">Manager</span>
+        <h6 class="team-title">Himanshi Sharma</h6>
+        <span class="sub-title">WIE Chairperson</span>
       </div>
     </div>
     <!-- end team member -->
@@ -240,15 +242,15 @@
  
               <div class="socials mt-20">
                 <a href="#"><span class="fa fa-facebook"></span></a>
-                <a href="#"><span class="fa fa-twitter"></span ></a>
-                <a href="#"><span  class="fa fa-google-plus"></span ></a>
-                <a href="#"><span class="fa fa-envelope"></span ></a>
+                <a href="#"><span class="fa fa-linkedin"></span ></a>
+                <!-- <a href="#"><span  class="fa fa-google-plus"></span ></a>
+                <a href="#"><span class="fa fa-envelope"></span ></a> -->
               </div>
             </div>
           </div>
         </div>
-        <h6 class="team-title">Steve Roberts</h6>
-        <span class="sub-title">Executive </span>
+        <h6 class="team-title">Nupur Chaturvedi</h6>
+        <span class="sub-title">WIE Chairperson</span>
       </div>
       <div class="col-md-3 team-wrap">
 
