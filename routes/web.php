@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/team', function () {
+    return view('team');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+Route::get('/events', function () {
+    return view('events');
+});
+Route::get('/gallary', function () {
+    return view('gallary');
+});
+Route::post('/contact', [
+    'uses' => 'ContactMessageController@store',
+    'as' => 'contact.store'
+]);
