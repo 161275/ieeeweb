@@ -8,7 +8,9 @@
       <h3 class="title clr" style="color:rgb(44, 190, 255)">Meet Our Team</h3>
 <h1 style="text-align:center;padding:10px"> Student Branch Counseller</h1>
 <div class="row team-row">
-<div class="col-md-3 col-sm-6 col-xs-6 team-wrap">
+<div class="col-md-4 col-sm-4 col-xs-4 team-wrap"></div>
+ 
+<div class="col-md-4 col-sm-4 col-xs-4 team-wrap">
       <div class="team-member text-center">
         <div class="team-img">
           <img src="images/t2.jpg" alt="">
@@ -28,6 +30,8 @@
         <span class="sub-title">Executive </span>
       </div>
     </div>
+    <div class="col-md-4 col-sm-4 col-xs-4 team-wrap"></div>
+
     </div>
     <h1 style="text-align:center;padding:10px"> Student Branch Exe-Com</h1>
   <div class="row team-row">
@@ -205,7 +209,8 @@
   </div>
   <h1 style="text-align:center;padding:10px"> Women in Engineering</h1>
   <div class="row team-row">
-    <div class="col-md-3 col-sm-6 col-xs-6 team-wrap">
+  <div class="col-md-3 team-wrap"></div>
+    <div class="col-md-3 team-wrap">
       <div class="team-member text-center">
         <div class="team-img">
           <img src="images/t1.jpg" alt="">
@@ -226,7 +231,7 @@
     </div>
     <!-- end team member -->
 
-    <div class="col-md-3 col-sm-6 col-xs-6 team-wrap">
+    <div class="col-md-3 team-wrap">
       <div class="team-member text-center">
         <div class="team-img">
           <img src="images/t2.jpg" alt="">
@@ -245,6 +250,8 @@
         <h6 class="team-title">Steve Roberts</h6>
         <span class="sub-title">Executive </span>
       </div>
+      <div class="col-md-3 team-wrap">
+
     </div>
     <!-- end team member -->
     <!-- end team member -->

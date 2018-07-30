@@ -142,7 +142,7 @@ Design.
  
 	<!--//services-->
 		<!--blog -->
-	<div class="blog" id="blog">
+	<!-- <div class="blog" id="blog">
 		<div class="container">
 			<h3 class="title ">Blog</h3>
 						<div class="blog-grid-w3-agileits">
@@ -184,7 +184,7 @@ Design.
 				<div class="clearfix"></div>
 			</div>
 </div>
-</div>
+</div> -->
 <!--//blog -->
 	
 		<!-- gallery -->

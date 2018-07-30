@@ -9,7 +9,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-				<h1><a class="navbar-brand" href="index.html"><img style="max-width:14rem" src="images/IEEE-JUIT(white).png"></a></h1>
+				<h1><a class="navbar-brand" href="index.html"><img style="max-width:14rem;padding-top:7px" src="images/IEEE-JUIT(white).png"></a></h1>
 			</div>
 <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 				<nav>
@@ -25,19 +25,19 @@
 
 				</nav>
 	</div>
-    <div class="w3ls_search">
+    <!-- <div class="w3ls_search">
 						<div class="cd-main-header">
 							<ul class="cd-header-buttons">
 								<li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li>
 							</ul>
-							<!-- cd-header-buttons -->
+						
 						</div>
 						<div id="cd-search" class="cd-search">
 							<form action="#" method="post">
 								<input name="Search" type="search" placeholder="Click enter after typing...">
 							</form>
 						</div>
-					</div>
+					</div> -->
 		</nav> 
 </div>
  <div class="clearfix"> </div>

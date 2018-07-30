@@ -14,6 +14,7 @@
 					</div> -->
 					<div class="col-md-9 white-shadow">
 						<h4>Lorem ipsum</h4>
+						<h6>jan 2017</h6>
 						<p>delectus reiciendis maiores alias maiores alias consequatur aut consequatur aut.maiores alias consequatur aut.</p>
 						<div class="clearfix"> </div>
 					</div>
@@ -24,6 +25,7 @@
 					</div> -->
 					<div class="col-md-9 white-shadow">
 						<h4>Lorem ipsum</h4>
+						<h6>jan 2017</h6>
 						<p>delectus reiciendis maiores alias maiores alias consequatur aut consequatur aut.maiores alias consequatur aut.</p>
 					</div>
 						<div class="clearfix"> </div>
@@ -34,6 +36,7 @@
 					</div> -->
 					<div class="col-md-9 white-shadow">
 						<h4>Lorem ipsum</h4>
+						<h6>jan 2017</h6>
 						<p>delectus reiciendis maiores alias maiores alias consequatur aut consequatur aut.maiores alias consequatur aut.</p>
 						<div class="clearfix"> </div>
 					</div>
@@ -44,6 +47,7 @@
 					</div> -->
 					<div class="col-md-9 white-shadow">
 						<h4>Lorem ipsum</h4>
+						<h6>jan 2017</h6>
 						<p>delectus reiciendis maiores alias maiores alias consequatur aut consequatur aut.maiores alias consequatur aut.</p>
 					</div>
 						<div class="clearfix"> </div>
